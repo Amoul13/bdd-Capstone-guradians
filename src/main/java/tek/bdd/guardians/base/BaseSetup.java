@@ -1,6 +1,7 @@
 package tek.bdd.guardians.base;
 
 import java.time.Duration;
+import java.time.temporal.ChronoUnit;
 import java.util.HashMap;
 
 import org.apache.log4j.Logger;
@@ -79,7 +80,7 @@ public class BaseSetup {
 		
 		webDriver.manage().window().maximize();
 		webDriver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(60));
-		webDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(60));
+		webDriver.manage().timeouts().implicitlyWait(Duration.of(20, ChronoUnit.SECONDS));
 		
 	}
 	

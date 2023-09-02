@@ -9,7 +9,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 @CucumberOptions(
         tags = "@Regression",
         features = ("classpath:features"),
-        glue = ("tek.bdd.guardians"),
+        glue = "tek.bdd.guardians",
         dryRun =false,
         plugin = {
                 "pretty",

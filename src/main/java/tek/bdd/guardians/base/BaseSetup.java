@@ -24,10 +24,10 @@ public class BaseSetup {
 		
 		//we need the path to env_config.yml file and store it in a String variable
 		//user.dir means user directory
-		String filePath = System.getProperty("user.dir") + "\\src\\main\\resources\\env_config.yml";
+		String filePath = System.getProperty("user.dir") + "/src/main/resources/env_config.yml";
 		
 		//we need the path to the log4j.properties file and store it in a String variable
-		String log4jPath = System.getProperty("user.dir") + "\\src\\main\\resources\\log4j.properties";
+		String log4jPath = System.getProperty("user.dir") + "/src/main/resources/log4j.properties";
 		
 		//We get an instance of the project configuration file (env_config file)
 		try {

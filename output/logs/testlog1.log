@@ -1446,3 +1446,313 @@
 2023-09-01 17:48:03,666 [main] INFO logger_file - Order link was clicked successfully
 2023-09-01 17:48:12,508 [main] INFO logger_file - First order in the list of clicked
 2023-09-01 17:48:13,723 [main] INFO logger_file - Your review was added successfully
+2023-09-01 20:04:38,027 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:04:44,119 [main] INFO logger_file - user click SigIn successfully
+2023-09-01 20:04:46,153 [main] INFO logger_file - user verify account successfully
+2023-09-01 20:04:52,443 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:04:53,806 [main] INFO logger_file - Account Information Updated Successfully
+2023-09-01 20:05:00,169 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:05:02,678 [main] INFO logger_file - Payment Method added sucessfully
+2023-09-01 20:05:08,073 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:05:10,359 [main] INFO logger_file - Payment Method updated Successfully
+2023-09-01 20:05:15,960 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:05:16,833 [main] INFO logger_file - payment has been removed
+2023-09-01 20:05:22,335 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:05:22,942 [main] INFO logger_file - Add Address Link was clicked successfully
+2023-09-01 20:05:24,256 [main] INFO logger_file - Address form was filled out successfully
+2023-09-01 20:05:25,172 [main] INFO logger_file - Address Added Successfully
+2023-09-01 20:05:25,173 [main] INFO logger_file - Add Address Button was clicked successfully
+2023-09-01 20:05:30,932 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:05:31,573 [main] INFO logger_file - User clicked on Edit Address button
+2023-09-01 20:05:32,416 [main] INFO logger_file - User filled the new address information
+2023-09-01 20:05:32,764 [main] INFO logger_file - User clicked on update address button
+2023-09-01 20:05:33,335 [main] INFO logger_file - User updated the address successfully
+2023-09-01 20:05:38,686 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:05:39,302 [main] INFO logger_file - clicked on remove button
+2023-09-01 20:05:44,919 [main] INFO logger_file - Option Electronics is displayed
+2023-09-01 20:05:44,947 [main] INFO logger_file - Option Computers is displayed
+2023-09-01 20:05:44,979 [main] INFO logger_file - Option Smart Home is displayed
+2023-09-01 20:05:45,013 [main] INFO logger_file - Option Sports is displayed
+2023-09-01 20:05:45,043 [main] INFO logger_file - Option Automative is displayed
+2023-09-01 20:06:18,715 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:06:19,010 [main] INFO logger_file - Category was selected successfully from dropdown
+2023-09-01 20:06:19,072 [main] INFO logger_file - Item name was entered successfully
+2023-09-01 20:06:19,317 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:06:19,560 [main] INFO logger_file - item was clicked successfully
+2023-09-01 20:06:19,805 [main] INFO logger_file - item quantity was selected succcessfully
+2023-09-01 20:06:20,037 [main] INFO logger_file - Add item to the cart button was clicked successfully
+2023-09-01 20:06:20,046 [main] INFO logger_file - Item qty in the cart was validated successfully
+2023-09-01 20:06:25,724 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:06:26,006 [main] INFO logger_file - Category changed to electronics successfully
+2023-09-01 20:06:26,054 [main] INFO logger_file - Item name was entered successfully
+2023-09-01 20:06:26,298 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:06:26,543 [main] INFO logger_file - Item Apex Legends was clicked successfully
+2023-09-01 20:06:26,799 [main] INFO logger_file - Apex Legends qty was changed successfully
+2023-09-01 20:06:27,048 [main] INFO logger_file - Add item to the cart button was clicked successfully
+2023-09-01 20:06:27,061 [main] INFO logger_file - Item qty in the cart was validated successfully
+2023-09-01 20:06:27,394 [main] INFO logger_file - Cart Button was clicked successfully
+2023-09-01 20:06:27,703 [main] INFO logger_file - Proceed to check out button was clicked successfully
+2023-09-01 20:06:27,993 [main] INFO logger_file - Place your order button was clicked successfully
+2023-09-01 20:06:28,590 [main] INFO logger_file - Order Placed Successfully
+2023-09-01 20:06:34,085 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:06:34,405 [main] INFO logger_file - Order link was clicked successfully
+2023-09-01 20:06:43,956 [main] INFO logger_file - First order in the list of clicked
+2023-09-01 20:06:44,401 [main] INFO logger_file - Order Cancel button was clicked
+2023-09-01 20:06:44,664 [main] INFO logger_file - Cancelation reason was selected
+2023-09-01 20:06:44,915 [main] INFO logger_file - Cancel Submit Button was clicked successfully
+2023-09-01 20:06:44,957 [main] INFO logger_file - Cancelation success message was verified successfully
+2023-09-01 20:06:50,821 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:06:50,987 [main] INFO logger_file - Item name was entered successfully
+2023-09-01 20:06:51,257 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:06:51,517 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:06:51,809 [main] INFO logger_file - Cleaning Gel added successfully
+2023-09-01 20:06:52,106 [main] INFO logger_file - Add item to the cart button was clicked successfully
+2023-09-01 20:06:52,381 [main] INFO logger_file - successfully added
+2023-09-01 20:06:52,627 [main] INFO logger_file - Cart Button was clicked successfully
+2023-09-01 20:06:52,921 [main] INFO logger_file - Proceed to check out button was clicked successfully
+2023-09-01 20:06:53,177 [main] INFO logger_file - Place your order button was clicked successfully
+2023-09-01 20:06:58,895 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:06:59,181 [main] INFO logger_file - clicked successfully
+2023-09-01 20:07:09,673 [main] INFO logger_file - First order in the list of clicked
+2023-09-01 20:07:10,415 [main] INFO logger_file - Cancelation reason was selected
+2023-09-01 20:07:10,680 [main] INFO logger_file - Dropp Off was selected
+2023-09-01 20:07:10,932 [main] INFO logger_file - Return Order button was clicked
+2023-09-01 20:07:10,945 [main] INFO logger_file - Return was successfull
+2023-09-01 20:07:16,892 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:07:17,205 [main] INFO logger_file - Order link was clicked successfully
+2023-09-01 20:07:26,939 [main] INFO logger_file - First order in the list of clicked
+2023-09-01 20:07:28,262 [main] INFO logger_file - Your review was added successfully
+2023-09-01 20:15:09,791 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:15:58,396 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:16:08,778 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:16:10,416 [main] INFO logger_file - Account Information Updated Successfully
+2023-09-01 20:17:54,301 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:18:01,156 [main] INFO logger_file - user click SigIn successfully
+2023-09-01 20:22:26,038 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:22:26,690 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:22:35,410 [main] INFO logger_file - user click SigIn successfully
+2023-09-01 20:22:35,909 [main] INFO logger_file - user click SigIn successfully
+2023-09-01 20:22:37,466 [main] INFO logger_file - user verify account successfully
+2023-09-01 20:22:37,943 [main] INFO logger_file - user verify account successfully
+2023-09-01 20:22:46,106 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:22:46,446 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:22:47,737 [main] INFO logger_file - Account Information Updated Successfully
+2023-09-01 20:22:48,102 [main] INFO logger_file - Account Information Updated Successfully
+2023-09-01 20:22:57,026 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:22:57,178 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:22:59,613 [main] INFO logger_file - Payment Method added sucessfully
+2023-09-01 20:22:59,709 [main] INFO logger_file - Payment Method added sucessfully
+2023-09-01 20:23:08,643 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:23:08,760 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:23:11,148 [main] INFO logger_file - Payment Method updated Successfully
+2023-09-01 20:23:11,283 [main] INFO logger_file - Payment Method updated Successfully
+2023-09-01 20:23:19,764 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:23:19,936 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:23:20,912 [main] INFO logger_file - payment has been removed
+2023-09-01 20:23:21,024 [main] INFO logger_file - payment has been removed
+2023-09-01 20:23:29,708 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:23:30,064 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:23:30,389 [main] INFO logger_file - Add Address Link was clicked successfully
+2023-09-01 20:23:30,798 [main] INFO logger_file - Add Address Link was clicked successfully
+2023-09-01 20:23:32,821 [main] INFO logger_file - Address form was filled out successfully
+2023-09-01 20:23:33,234 [main] INFO logger_file - Address form was filled out successfully
+2023-09-01 20:23:33,815 [main] INFO logger_file - Address Added Successfully
+2023-09-01 20:23:33,816 [main] INFO logger_file - Add Address Button was clicked successfully
+2023-09-01 20:23:34,273 [main] INFO logger_file - Address Added Successfully
+2023-09-01 20:23:34,274 [main] INFO logger_file - Add Address Button was clicked successfully
+2023-09-01 20:23:43,278 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:23:44,030 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:23:44,149 [main] INFO logger_file - User clicked on Edit Address button
+2023-09-01 20:23:44,924 [main] INFO logger_file - User clicked on Edit Address button
+2023-09-01 20:23:45,368 [main] INFO logger_file - User filled the new address information
+2023-09-01 20:23:46,010 [main] INFO logger_file - User clicked on update address button
+2023-09-01 20:23:46,653 [main] INFO logger_file - User filled the new address information
+2023-09-01 20:23:46,679 [main] INFO logger_file - User updated the address successfully
+2023-09-01 20:23:47,066 [main] INFO logger_file - User clicked on update address button
+2023-09-01 20:23:47,688 [main] INFO logger_file - User updated the address successfully
+2023-09-01 20:23:58,825 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:23:59,753 [main] INFO logger_file - clicked on remove button
+2023-09-01 20:24:00,302 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:24:01,132 [main] INFO logger_file - clicked on remove button
+2023-09-01 20:24:10,630 [main] INFO logger_file - Option Electronics is displayed
+2023-09-01 20:24:10,710 [main] INFO logger_file - Option Computers is displayed
+2023-09-01 20:24:10,785 [main] INFO logger_file - Option Smart Home is displayed
+2023-09-01 20:24:10,842 [main] INFO logger_file - Option Sports is displayed
+2023-09-01 20:24:10,913 [main] INFO logger_file - Option Automative is displayed
+2023-09-01 20:24:12,278 [main] INFO logger_file - Option Electronics is displayed
+2023-09-01 20:24:12,360 [main] INFO logger_file - Option Computers is displayed
+2023-09-01 20:24:12,416 [main] INFO logger_file - Option Smart Home is displayed
+2023-09-01 20:24:12,463 [main] INFO logger_file - Option Sports is displayed
+2023-09-01 20:24:12,510 [main] INFO logger_file - Option Automative is displayed
+2023-09-01 20:25:14,480 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:25:14,821 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:25:14,866 [main] INFO logger_file - Category was selected successfully from dropdown
+2023-09-01 20:25:15,003 [main] INFO logger_file - Item name was entered successfully
+2023-09-01 20:25:15,210 [main] INFO logger_file - Category was selected successfully from dropdown
+2023-09-01 20:25:15,272 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:25:15,299 [main] INFO logger_file - Item name was entered successfully
+2023-09-01 20:25:15,542 [main] INFO logger_file - item was clicked successfully
+2023-09-01 20:25:15,568 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:25:15,813 [main] INFO logger_file - item quantity was selected succcessfully
+2023-09-01 20:25:15,835 [main] INFO logger_file - item was clicked successfully
+2023-09-01 20:25:16,092 [main] INFO logger_file - Add item to the cart button was clicked successfully
+2023-09-01 20:25:16,106 [main] INFO logger_file - Item qty in the cart was validated successfully
+2023-09-01 20:25:16,181 [main] INFO logger_file - item quantity was selected succcessfully
+2023-09-01 20:25:16,452 [main] INFO logger_file - Add item to the cart button was clicked successfully
+2023-09-01 20:25:23,461 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:25:23,770 [main] INFO logger_file - Category changed to electronics successfully
+2023-09-01 20:25:23,835 [main] INFO logger_file - Item name was entered successfully
+2023-09-01 20:25:24,096 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:25:24,370 [main] INFO logger_file - Item Apex Legends was clicked successfully
+2023-09-01 20:25:24,824 [main] INFO logger_file - Apex Legends qty was changed successfully
+2023-09-01 20:25:25,100 [main] INFO logger_file - Add item to the cart button was clicked successfully
+2023-09-01 20:25:25,120 [main] INFO logger_file - Item qty in the cart was validated successfully
+2023-09-01 20:25:25,446 [main] INFO logger_file - Cart Button was clicked successfully
+2023-09-01 20:25:25,965 [main] INFO logger_file - Proceed to check out button was clicked successfully
+2023-09-01 20:25:26,241 [main] INFO logger_file - Place your order button was clicked successfully
+2023-09-01 20:25:26,860 [main] INFO logger_file - Order Placed Successfully
+2023-09-01 20:25:32,874 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:25:33,165 [main] INFO logger_file - Order link was clicked successfully
+2023-09-01 20:25:43,893 [main] INFO logger_file - First order in the list of clicked
+2023-09-01 20:25:44,247 [main] INFO logger_file - Order Cancel button was clicked
+2023-09-01 20:25:44,526 [main] INFO logger_file - Cancelation reason was selected
+2023-09-01 20:25:44,789 [main] INFO logger_file - Cancel Submit Button was clicked successfully
+2023-09-01 20:25:44,816 [main] INFO logger_file - Cancelation success message was verified successfully
+2023-09-01 20:25:50,710 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:25:50,812 [main] INFO logger_file - Item name was entered successfully
+2023-09-01 20:25:51,070 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:25:51,316 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:25:51,590 [main] INFO logger_file - Cleaning Gel added successfully
+2023-09-01 20:25:51,850 [main] INFO logger_file - Add item to the cart button was clicked successfully
+2023-09-01 20:25:52,269 [main] INFO logger_file - successfully added
+2023-09-01 20:25:52,512 [main] INFO logger_file - Cart Button was clicked successfully
+2023-09-01 20:25:52,786 [main] INFO logger_file - Proceed to check out button was clicked successfully
+2023-09-01 20:25:53,040 [main] INFO logger_file - Place your order button was clicked successfully
+2023-09-01 20:25:58,678 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:25:59,026 [main] INFO logger_file - clicked successfully
+2023-09-01 20:26:09,603 [main] INFO logger_file - First order in the list of clicked
+2023-09-01 20:26:10,315 [main] INFO logger_file - Cancelation reason was selected
+2023-09-01 20:26:10,580 [main] INFO logger_file - Dropp Off was selected
+2023-09-01 20:26:10,842 [main] INFO logger_file - Return Order button was clicked
+2023-09-01 20:26:10,853 [main] INFO logger_file - Return was successfull
+2023-09-01 20:26:16,721 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:26:17,038 [main] INFO logger_file - Order link was clicked successfully
+2023-09-01 20:26:24,735 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:26:25,059 [main] INFO logger_file - Category changed to electronics successfully
+2023-09-01 20:26:25,130 [main] INFO logger_file - Item name was entered successfully
+2023-09-01 20:26:25,411 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:26:25,702 [main] INFO logger_file - Item Apex Legends was clicked successfully
+2023-09-01 20:26:25,965 [main] INFO logger_file - Apex Legends qty was changed successfully
+2023-09-01 20:26:26,244 [main] INFO logger_file - Add item to the cart button was clicked successfully
+2023-09-01 20:26:26,260 [main] INFO logger_file - Item qty in the cart was validated successfully
+2023-09-01 20:26:26,598 [main] INFO logger_file - Cart Button was clicked successfully
+2023-09-01 20:26:26,986 [main] INFO logger_file - Proceed to check out button was clicked successfully
+2023-09-01 20:26:27,273 [main] INFO logger_file - Place your order button was clicked successfully
+2023-09-01 20:26:27,881 [main] INFO logger_file - Order Placed Successfully
+2023-09-01 20:26:28,123 [main] INFO logger_file - First order in the list of clicked
+2023-09-01 20:26:29,635 [main] INFO logger_file - Your review was added successfully
+2023-09-01 20:26:34,846 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:26:35,177 [main] INFO logger_file - Order link was clicked successfully
+2023-09-01 20:26:45,666 [main] INFO logger_file - First order in the list of clicked
+2023-09-01 20:26:45,922 [main] INFO logger_file - Order Cancel button was clicked
+2023-09-01 20:26:46,203 [main] INFO logger_file - Cancelation reason was selected
+2023-09-01 20:26:46,450 [main] INFO logger_file - Cancel Submit Button was clicked successfully
+2023-09-01 20:26:46,479 [main] INFO logger_file - Cancelation success message was verified successfully
+2023-09-01 20:26:52,992 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:26:53,128 [main] INFO logger_file - Item name was entered successfully
+2023-09-01 20:26:53,414 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:26:53,662 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:26:53,918 [main] INFO logger_file - Cleaning Gel added successfully
+2023-09-01 20:26:54,180 [main] INFO logger_file - Add item to the cart button was clicked successfully
+2023-09-01 20:26:54,475 [main] INFO logger_file - successfully added
+2023-09-01 20:26:54,750 [main] INFO logger_file - Cart Button was clicked successfully
+2023-09-01 20:26:55,053 [main] INFO logger_file - Proceed to check out button was clicked successfully
+2023-09-01 20:26:55,298 [main] INFO logger_file - Place your order button was clicked successfully
+2023-09-01 20:27:00,695 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:27:00,972 [main] INFO logger_file - clicked successfully
+2023-09-01 20:27:11,634 [main] INFO logger_file - First order in the list of clicked
+2023-09-01 20:27:12,362 [main] INFO logger_file - Cancelation reason was selected
+2023-09-01 20:27:12,645 [main] INFO logger_file - Dropp Off was selected
+2023-09-01 20:27:12,926 [main] INFO logger_file - Return Order button was clicked
+2023-09-01 20:27:12,936 [main] INFO logger_file - Return was successfull
+2023-09-01 20:27:18,893 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:27:19,179 [main] INFO logger_file - Order link was clicked successfully
+2023-09-01 20:27:29,181 [main] INFO logger_file - First order in the list of clicked
+2023-09-01 20:27:30,510 [main] INFO logger_file - Your review was added successfully
+2023-09-01 20:28:00,106 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:32:14,177 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:32:20,091 [main] INFO logger_file - user click SigIn successfully
+2023-09-01 20:32:22,122 [main] INFO logger_file - user verify account successfully
+2023-09-01 20:32:27,447 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:32:28,975 [main] INFO logger_file - Account Information Updated Successfully
+2023-09-01 20:32:35,806 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:32:38,105 [main] INFO logger_file - Payment Method added sucessfully
+2023-09-01 20:32:44,390 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:32:46,800 [main] INFO logger_file - Payment Method updated Successfully
+2023-09-01 20:32:52,729 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:32:53,627 [main] INFO logger_file - payment has been removed
+2023-09-01 20:32:59,894 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:33:00,442 [main] INFO logger_file - Add Address Link was clicked successfully
+2023-09-01 20:33:01,689 [main] INFO logger_file - Address form was filled out successfully
+2023-09-01 20:33:02,678 [main] INFO logger_file - Address Added Successfully
+2023-09-01 20:33:02,678 [main] INFO logger_file - Add Address Button was clicked successfully
+2023-09-01 20:33:08,496 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:33:09,056 [main] INFO logger_file - User clicked on Edit Address button
+2023-09-01 20:33:09,741 [main] INFO logger_file - User filled the new address information
+2023-09-01 20:33:10,092 [main] INFO logger_file - User clicked on update address button
+2023-09-01 20:33:10,691 [main] INFO logger_file - User updated the address successfully
+2023-09-01 20:33:17,046 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:33:17,589 [main] INFO logger_file - clicked on remove button
+2023-09-01 20:33:23,533 [main] INFO logger_file - Option Electronics is displayed
+2023-09-01 20:33:23,551 [main] INFO logger_file - Option Computers is displayed
+2023-09-01 20:33:23,568 [main] INFO logger_file - Option Smart Home is displayed
+2023-09-01 20:33:23,586 [main] INFO logger_file - Option Sports is displayed
+2023-09-01 20:33:23,611 [main] INFO logger_file - Option Automative is displayed
+2023-09-01 20:34:00,721 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:34:01,024 [main] INFO logger_file - Category was selected successfully from dropdown
+2023-09-01 20:34:01,137 [main] INFO logger_file - Item name was entered successfully
+2023-09-01 20:34:01,444 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:34:01,704 [main] INFO logger_file - item was clicked successfully
+2023-09-01 20:34:02,239 [main] INFO logger_file - item quantity was selected succcessfully
+2023-09-01 20:34:02,549 [main] INFO logger_file - Add item to the cart button was clicked successfully
+2023-09-01 20:34:02,566 [main] INFO logger_file - Item qty in the cart was validated successfully
+2023-09-01 20:34:10,305 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:34:10,606 [main] INFO logger_file - Category changed to electronics successfully
+2023-09-01 20:34:10,650 [main] INFO logger_file - Item name was entered successfully
+2023-09-01 20:34:10,951 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:34:11,194 [main] INFO logger_file - Item Apex Legends was clicked successfully
+2023-09-01 20:34:11,439 [main] INFO logger_file - Apex Legends qty was changed successfully
+2023-09-01 20:34:11,685 [main] INFO logger_file - Add item to the cart button was clicked successfully
+2023-09-01 20:34:11,700 [main] INFO logger_file - Item qty in the cart was validated successfully
+2023-09-01 20:34:11,964 [main] INFO logger_file - Cart Button was clicked successfully
+2023-09-01 20:34:12,229 [main] INFO logger_file - Proceed to check out button was clicked successfully
+2023-09-01 20:34:12,475 [main] INFO logger_file - Place your order button was clicked successfully
+2023-09-01 20:34:13,033 [main] INFO logger_file - Order Placed Successfully
+2023-09-01 20:34:19,156 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:34:19,427 [main] INFO logger_file - Order link was clicked successfully
+2023-09-01 20:34:30,096 [main] INFO logger_file - First order in the list of clicked
+2023-09-01 20:34:30,352 [main] INFO logger_file - Order Cancel button was clicked
+2023-09-01 20:34:30,651 [main] INFO logger_file - Cancelation reason was selected
+2023-09-01 20:34:30,915 [main] INFO logger_file - Cancel Submit Button was clicked successfully
+2023-09-01 20:34:31,004 [main] INFO logger_file - Cancelation success message was verified successfully
+2023-09-01 20:34:37,879 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:34:37,969 [main] INFO logger_file - Item name was entered successfully
+2023-09-01 20:34:38,209 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:34:38,452 [main] INFO logger_file - Search button was clicked successfully
+2023-09-01 20:34:38,700 [main] INFO logger_file - Cleaning Gel added successfully
+2023-09-01 20:34:38,941 [main] INFO logger_file - Add item to the cart button was clicked successfully
+2023-09-01 20:34:39,207 [main] INFO logger_file - successfully added
+2023-09-01 20:34:39,455 [main] INFO logger_file - Cart Button was clicked successfully
+2023-09-01 20:34:39,732 [main] INFO logger_file - Proceed to check out button was clicked successfully
+2023-09-01 20:34:39,982 [main] INFO logger_file - Place your order button was clicked successfully
+2023-09-01 20:34:46,460 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:34:46,740 [main] INFO logger_file - clicked successfully
+2023-09-01 20:34:57,753 [main] INFO logger_file - First order in the list of clicked
+2023-09-01 20:34:58,314 [main] INFO logger_file - Cancelation reason was selected
+2023-09-01 20:34:58,563 [main] INFO logger_file - Dropp Off was selected
+2023-09-01 20:34:58,826 [main] INFO logger_file - Return Order button was clicked
+2023-09-01 20:34:58,840 [main] INFO logger_file - Return was successfull
+2023-09-01 20:35:05,495 [main] INFO logger_file - user logged in successfully
+2023-09-01 20:35:05,772 [main] INFO logger_file - Order link was clicked successfully
+2023-09-01 20:35:16,348 [main] INFO logger_file - First order in the list of clicked
+2023-09-01 20:35:17,980 [main] INFO logger_file - Your review was added successfully
